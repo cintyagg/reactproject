@@ -1,0 +1,350 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Robótica",
+      "cor": "#4B0082",
+      "link_extra": {
+        "text": "Conheça mais sobre as inovações tecnológicas!",
+        "url": "https://www.instagram.com/bric_kode/"
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "Big Data e Inteligência Artificial",
+      "cor": "#0000FF",
+      "link_extra": {
+        "text": "O que há de mais inovador no mercado?",
+        "url": "https://www.instagram.com/bric_kode/"
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "Programação e Desenvolvimento",
+      "cor": "#4B0082",
+      "link_extra": {
+        "text": "Curte programar, venha conosco!",
+        "url": "https://www.instagram.com/bric_kode/"
+      }
+    },
+    {
+      "id": 4,
+      "titulo": "Tutoriais",
+      "cor": "#0000FF",
+      "link_extra": {
+        "text": "Aprenda na prática!",
+        "url": "https://www.instagram.com/bric_kode/"
+      }
+    },
+    {
+      "id": 5,
+      "titulo": "Games",
+      "cor": "#4B0082"
+    },
+    {
+      "id": 6,
+      "titulo": "Filmes",
+      "cor": "#0000FF",
+      "link_extra": {
+        "text": "Entretenimento nerd? Temos!",
+        "url": "https://www.instagram.com/bric_kode/"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "Embarque no mundo High Tech!",
+      "url": "https://youtu.be/NjYTzvAVozo"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "Entrevista com a robô - Sophia",
+      "url": "https://youtu.be/5nCVE76LqZQ"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "Entrevista com o robô - Pepper.",
+      "url": "https://youtu.be/aZ5VkgvQFBU"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "Erica, a humanoide Japonesa.",
+      "url": "https://youtu.be/TyJ-xLj9SEE"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "Animais Robôs.",
+      "url": "https://youtu.be/kUXirKgO-8Y"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "Atlas, a próxima geração.",
+      "url": "https://youtu.be/rVlhMGQgDkY"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "Robô - Asimo (Honda)",
+      "url": "https://youtu.be/JlRPICfnmhw"
+    },
+    {
+      "id": 8,
+      "categoriaId": 2,
+      "titulo": "Memory Mirror - The World's first Digital Mirror.",
+      "url": "https://youtu.be/Xp7s_kCHJS0"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "How will Artificial Intelligence and Internet of Things change the world?",
+      "url": "https://youtu.be/Cx5aNwnZYDc"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "The Future of Grocery Shopping with Glasss.",
+      "url": "https://youtu.be/TkfF-WGUisw"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "Big Data is love.",
+      "url": "https://youtu.be/ZZZgAw7HBf4"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "Rede Globo powered by respect.",
+      "url": "https://youtu.be/2sttE9o9pyk"
+    },
+    {
+      "id": 13,
+      "categoriaId": 2,
+      "titulo": "Adobe - Click, Baby, Click.",
+      "url": "https://youtu.be/N1ltwg2nTK4"
+    },
+    {
+      "id": 14,
+      "categoriaId": 3,
+      "titulo": "Como corrigir um bug da forma certa?",
+      "url": "https://youtu.be/hi3-vL0J0r8"
+    },
+    {
+      "id": 15,
+      "categoriaId": 3,
+      "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube.",
+      "url": "https://youtu.be/kjhu1LEmRpY"
+    },
+    {
+      "id": 16,
+      "categoriaId": 3,
+      "titulo": "Aprenda a usar APIs.",
+      "url": "https://youtu.be/lc0VOosnlAc"
+    },
+    {
+      "id": 17,
+      "categoriaId": 3,
+      "titulo": "Usando Git Direito.",
+      "url": "https://youtu.be/6OokP-NE49k"
+    },
+    {
+      "id": 18,
+      "categoriaId": 3,
+      "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
+      "url": "https://youtu.be/6o6-bKOZOEY"
+    },
+    {
+      "id": 19,
+      "categoriaId": 4,
+      "titulo": "Sistema de roteadores MESH controlado por voz - COVR.",
+      "url": "https://youtu.be/4LJ9GTdfqIs"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "titulo": "Como formatar o PC e instalar o Windows 10 e drivers?",
+      "url": "https://youtu.be/347kOdBoEsY"
+    },
+    {
+      "id": 21,
+      "categoriaId": 4,
+      "titulo": "Como instalar o novo Ubuntu 20.04 LTS?",
+      "url": "https://youtu.be/C_pntQ6fErg"
+    },
+    {
+      "id": 22,
+      "categoriaId": 4,
+      "titulo": "Dicas para aumentar a segurança do roteador WiFi.",
+      "url": "https://youtu.be/F6BlFacLIzE"
+    },
+    {
+      "id": 23,
+      "categoriaId": 4,
+      "titulo": "Como remover vírus do atalho no Pen Drive?",
+      "url": "https://youtu.be/9kOqLrlq8A8"
+    },
+    {
+      "id": 24,
+      "categoriaId": 4,
+      "titulo": "Como resolver a minha internet lenta?",
+      "url": "https://youtu.be/GTqeNkBaJ8E"
+    },
+    {
+      "id": 25,
+      "categoriaId": 4,
+      "titulo": "Como formatar e instalar o Windows 7?",
+      "url": "https://youtu.be/F3ETDWF5DTI"
+    },
+    {
+      "id": 26,
+      "categoriaId": 4,
+      "titulo": "Como instalar o Ubuntu 18.04 no computador?",
+      "url": "https://youtu.be/mLftT7Q25mo"
+    },
+    {
+      "id": 27,
+      "categoriaId": 4,
+      "titulo": "Como criar Pen Drive bootável do Windows 7, 8, 8.1 e Windows 10?",
+      "url": "https://youtu.be/JvSCYZO2o04"
+    },
+    {
+      "id": 28,
+      "categoriaId": 5,
+      "titulo": "God of War - Be a Warrior - Trailer.",
+      "url": "https://youtu.be/gOE2BVRCUkM"
+    },
+    {
+      "id": 29,
+      "categoriaId": 5,
+      "titulo": "League of Legends - Season 2020 Cinematic - Trailer.",
+      "url": "https://youtu.be/7O21Z6vgtmY"
+    },
+    {
+      "id": 30,
+      "categoriaId": 5,
+      "titulo": "Pokémon: Let’s Go, Pikachu! - Trailer.",
+      "url": "https://youtu.be/L56q_k2ydrs"
+    },
+    {
+      "id": 31,
+      "categoriaId": 5,
+      "titulo": "Resident Evil 8 - Trailer.",
+      "url": "https://youtu.be/JSapXD9vxYA"
+    },
+    {
+      "id": 32,
+      "categoriaId": 5,
+      "titulo": "Assassin's Creed - Trailer.",
+      "url": "https://youtu.be/KDfdjB9uL0U"
+    },
+    {
+      "id": 33,
+      "categoriaId": 5,
+      "titulo": "Final Fantasy VII Remake - Trailer.",
+      "url": "https://youtu.be/I_ATSCTnUD8"
+    },
+    {
+      "id": 34,
+      "categoriaId": 6,
+      "titulo": "2001: A Space Odyssey - Trailer.",
+      "url": "https://youtu.be/oR_e9y-bka0"
+    },
+    {
+      "id": 35,
+      "categoriaId": 6,
+      "titulo": "Resident Evil - Trailer.",
+      "url": "https://youtu.be/kEutwdia8n0"
+    },
+    {
+      "id": 36,
+      "categoriaId": 6,
+      "titulo": "Matrix - Trailer.",
+      "url": "https://youtu.be/2KnZac176Hs"
+    },
+    {
+      "id": 37,
+      "categoriaId": 6,
+      "titulo": "O Exterminador do Futuro - Destino Sombrio - Trailer.",
+      "url": "https://youtu.be/OFCE1ppomCg"
+    },
+    {
+      "id": 38,
+      "categoriaId": 6,
+      "titulo": "Lucy - Trailer.",
+      "url": "https://youtu.be/bN7ksFEVO9U"
+    },
+    {
+      "id": 39,
+      "categoriaId": 6,
+      "titulo": "Planeta dos Macacos - A origem - Trailer.",
+      "url": "https://youtu.be/y9xNtz44y0E"
+    },
+    {
+      "id": 40,
+      "categoriaId": 6,
+      "titulo": "O Presságio - Trailer.",
+      "url": "https://youtu.be/bBWqnq4brog"
+    },
+    {
+      "titulo": "Smart House.",
+      "url": "https://youtu.be/6LELq9ZbS8o",
+      "categoriaId": 2,
+      "id": 41
+    },
+    {
+      "titulo": "IoT and the future of car insurance.",
+      "url": "https://youtu.be/neJmbMIis3Q",
+      "categoriaId": 2,
+      "id": 42
+    },
+    {
+      "titulo": "Pet-commerce.",
+      "url": "https://youtu.be/dEAQkHj25hg",
+      "categoriaId": 2,
+      "id": 43
+    },
+    {
+      "titulo": "\"WiFi Alarm\" (Grey Brasil).",
+      "url": "https://youtu.be/_oCXvem9-nc",
+      "categoriaId": 2,
+      "id": 44
+    },
+    {
+      "titulo": "Reword - The tool to help end online bullying.",
+      "url": "https://youtu.be/FHP1EjXdYrI",
+      "categoriaId": 2,
+      "id": 45
+    },
+    {
+      "titulo": "FocusMotion/RGA Webby Demo.",
+      "url": "https://youtu.be/DhG76JrpO-Q",
+      "categoriaId": 2,
+      "id": 46
+    },
+    {
+      "titulo": "Spot VUELING \"UntyPIC\" - Albiñana Filma.",
+      "url": "https://youtu.be/cMjsNrJ3MXg",
+      "categoriaId": 2,
+      "id": 47
+    },
+    {
+      "titulo": "Know You Again-Ai Glasses the help Alzheimer's Sufferes.",
+      "url": "https://youtu.be/WWc2FsvA7qM",
+      "categoriaId": 2,
+      "id": 48
+    },
+    {
+      "titulo": "Netflix - Data GIF campaign.",
+      "url": "https://youtu.be/W76Sc6lmOvA",
+      "categoriaId": 2,
+      "id": 49
+    }
+  ]
+}

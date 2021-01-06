@@ -1,0 +1,228 @@
+{
+  "categorias": [
+    {
+      "titulo": "Robótica",
+      "link": "https://www.instagram.com/bric_kode/",
+      "cor": "#4B0082",
+      "link_extra": {
+        "text": "Conheça mais sobre as inovações tecnológicas!",
+        "url": "https://www.instagram.com/bric_kode/"
+      },
+      "videos": [
+        {
+          "titulo": "Embarque no mundo High Tech!",
+          "url": "https://youtu.be/NjYTzvAVozo"
+        },
+        {
+          "titulo": "Entrevista com a robô - Sophia.",
+          "url": "https://youtu.be/5nCVE76LqZQ"
+        },
+        {
+          "titulo": "Entrevista com o robô - Pepper.",
+          "url": "https://youtu.be/aZ5VkgvQFBU"
+        },
+        {
+          "titulo": "Erica, a humanoide Japonesa.",
+          "url": "https://youtu.be/TyJ-xLj9SEE"
+        },
+        {
+          "titulo": "Animais Robôs.",
+          "url": "https://youtu.be/kUXirKgO-8Y"
+        },
+        {
+          "titulo": "Atlas, a próxima geração.",
+          "url": "https://youtu.be/rVlhMGQgDkY"
+        },
+        
+        {
+          "titulo": "Robô - Asimo (Honda)",
+          "url": "https://youtu.be/JlRPICfnmhw"
+        }       
+      ]
+    },
+
+    {
+      "titulo": "Big Data e Inteligência Artificial",
+      "cor": "#0000FF",
+      "link_extra": {
+        "text": "O que há de mais inovador no mercado?",
+        "url": "https://www.instagram.com/bric_kode/"
+      },
+      "videos": [
+        {
+          "titulo": "Memory Mirror - The World's first Digital Mirror.",
+          "url": "https://youtu.be/Xp7s_kCHJS0"
+        },
+        {
+          "titulo": "How will Artificial Intelligence and Internet of Things change the world?",
+          "url": "https://youtu.be/Cx5aNwnZYDc"
+        },
+        {
+          "titulo": "The Future of Grocery Shopping with Glasss.",
+          "url": "https://youtu.be/TkfF-WGUisw"
+        },
+        {
+          "titulo": "Big Data is love.",
+          "url": "https://youtu.be/ZZZgAw7HBf4"
+        },
+        {
+          "titulo": "Rede Globo powered by respect.",
+          "url": "https://youtu.be/2sttE9o9pyk"
+        },
+        {
+          "titulo": "Adobe - Click, Baby, Click.",
+          "url": "https://youtu.be/N1ltwg2nTK4"
+        }
+      ]
+    },
+
+    {
+      "titulo": "Programação e Desenvolvimento",
+      "cor": "#4B0082",
+      "link_extra": {
+        "text": "Curte programar, venha conosco!",
+        "url": "https://www.instagram.com/bric_kode/"
+      },
+      "videos": [
+        {
+          "titulo": "Como corrigir um bug da forma certa?",
+          "url": "https://youtu.be/hi3-vL0J0r8"
+        },
+        {
+          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube.",
+          "url": "https://youtu.be/kjhu1LEmRpY"
+        },
+        {
+          "titulo": "Aprenda a usar APIs.",
+          "url": "https://youtu.be/lc0VOosnlAc"
+        }, 
+        {
+          "titulo": "Usando Git Direito.",
+          "url": "https://youtu.be/6OokP-NE49k"
+        },
+        {
+          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
+          "url": "https://youtu.be/6o6-bKOZOEY"
+        }
+      ]
+    },
+  
+     {
+      "titulo": "Tutoriais",
+      "cor": "#0000FF",
+      "link_extra": {
+        "text": "Aprenda na prática!",
+        "url": "https://www.instagram.com/bric_kode/"
+      },
+      "videos": [
+        {
+          "titulo": "Sistema de roteadores MESH controlado por voz - COVR.",
+          "url": "https://youtu.be/4LJ9GTdfqIs"
+        },
+        {
+          "titulo": "Como formatar o PC e instalar o Windows 10 e drivers?",
+          "url": "https://youtu.be/347kOdBoEsY"
+        },
+        {
+          "titulo": "Como instalar o novo Ubuntu 20.04 LTS?",
+          "url": "https://youtu.be/C_pntQ6fErg"
+        }, 
+        {
+          "titulo": "Dicas para aumentar a segurança do roteador WiFi.",
+          "url": "https://youtu.be/F6BlFacLIzE"
+        },
+        {
+          "titulo": "Como remover vírus do atalho no Pen Drive?",
+          "url": "https://youtu.be/9kOqLrlq8A8"
+        },
+        {
+          "titulo": "Como resolver a minha internet lenta?",
+          "url": "https://youtu.be/GTqeNkBaJ8E"
+        },
+        {
+          "titulo": "Como formatar e instalar o Windows 7?",
+          "url": "https://youtu.be/F3ETDWF5DTI"
+        },        
+        {
+          "titulo": "Como instalar o Ubuntu 18.04 no computador?",
+          "url": "https://youtu.be/mLftT7Q25mo"
+        },
+        {
+          "titulo": "Como criar Pen Drive bootável do Windows 7, 8, 8.1 e Windows 10?",
+          "url": "https://youtu.be/JvSCYZO2o04"
+        }
+      ]
+    },
+
+    {
+      "titulo": "Games",
+      "cor": "#4B0082",
+      "videos": [
+        {
+          "titulo": "God of War - Be a Warrior - Trailer.",
+          "url": "https://youtu.be/gOE2BVRCUkM"
+        },
+        {
+          "titulo": "League of Legends - Season 2020 Cinematic - Trailer.",
+          "url": "https://youtu.be/7O21Z6vgtmY"
+        },
+        {
+          "titulo": "Pokémon: Let’s Go, Pikachu! - Trailer.",
+          "url": "https://youtu.be/L56q_k2ydrs"
+        },
+        {
+          "titulo": "Resident Evil 8 - Trailer.",
+          "url": "https://youtu.be/JSapXD9vxYA"
+        },
+        {
+          "titulo": "Assassin's Creed - Trailer.",
+          "url": "https://youtu.be/KDfdjB9uL0U"
+        },
+        {
+          "titulo": "Final Fantasy VII Remake - Trailer.",
+          "url": "https://youtu.be/I_ATSCTnUD8"
+        }        
+      ]
+    },
+   
+    {
+      "titulo": "Filmes",
+      "cor": "#0000FF",
+      "link_extra": {
+        "text": "Entretenimento nerd? Temos!",
+        "url": "https://www.instagram.com/bric_kode/"
+      },
+      "videos": [
+        {
+          "titulo": "2001: A Space Odyssey - Trailer.",
+          "url": "https://youtu.be/oR_e9y-bka0"
+        },
+        {
+          "titulo": "Resident Evil - Trailer.",
+          "url": "https://youtu.be/kEutwdia8n0"
+        },
+        
+        {
+          "titulo": "Matrix - Trailer.",
+          "url": "https://youtu.be/2KnZac176Hs"
+        },
+        {
+          "titulo": "O Exterminador do Futuro - Destino Sombrio - Trailer.",
+          "url": "https://youtu.be/OFCE1ppomCg"
+        },
+        {
+          "titulo": "Lucy - Trailer.",
+          "url": "https://youtu.be/bN7ksFEVO9U"
+        },
+        {
+          "titulo": "Planeta dos Macacos - A origem - Trailer.",
+          "url": "https://youtu.be/y9xNtz44y0E"
+        },
+        {
+          "titulo": "O Presságio - Trailer.",
+          "url": "https://youtu.be/bBWqnq4brog"
+        }
+      ]
+    }
+  ]
+}
