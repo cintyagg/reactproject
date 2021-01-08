@@ -10,7 +10,7 @@ Para executar no ambiente de desenvolvimento, o usuário precisará seguir os se
 
 . Abra o Prompt de Comando em sua máquina;
 
-. Realize o chamamento do diretório: cd brickode-master;
+. Realize o chamamento do diretório: cd reactproject-master;
 
 . Digite: npm install;
 
